@@ -1,0 +1,12 @@
+#tetris_container{
+    margin:auto 0;
+    text-align: center;
+}
+
+#tetris{
+    padding:0px;
+}
+#tetris_side{
+    padding:0px;
+}
+
